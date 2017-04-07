@@ -1,0 +1,17 @@
+body {
+  height: 100%;
+  width: 100%;
+}
+
+h1 {
+  text-align: center;
+}
+
+#my-carousel {
+  margin-left: 30%;
+}
+
+.photo {
+  height: 300px;
+  width: 300px;
+}
